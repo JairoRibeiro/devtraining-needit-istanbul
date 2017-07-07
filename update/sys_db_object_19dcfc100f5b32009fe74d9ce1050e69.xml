@@ -17,11 +17,11 @@
         <number_ref display_value="JR">8d6db8d80f5b32009fe74d9ce1050e32</number_ref>
         <provider_class/>
         <read_access>true</read_access>
-        <super_class display_value="Task" name="task">8adf5b63f5213200a21cc3267c0bd586</super_class>
+        <super_class display_value="Task" name="task">2e05d3a59422320092c0d40a7bef46da</super_class>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-06-07 18:33:25</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>19dcfc100f5b32009fe74d9ce1050e69</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>NeedditJR</sys_name>
